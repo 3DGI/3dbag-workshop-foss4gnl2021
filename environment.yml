@@ -1,0 +1,10 @@
+name: foss4gnl2021
+dependencies:
+  - python>=3.6
+  - jupyter
+  - owslib
+  - numpy
+  - pandas
+  - sklearn
+  - pip:
+       - git+https://github.com/cityjson/cjio.git
