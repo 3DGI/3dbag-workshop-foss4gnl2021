@@ -5,6 +5,7 @@ dependencies:
   - owslib
   - numpy
   - pandas
-  - sklearn
+  - scikit-learn
+  - pip
   - pip:
-       - git+https://github.com/cityjson/cjio.git
+       - cjio>=0.6.10
