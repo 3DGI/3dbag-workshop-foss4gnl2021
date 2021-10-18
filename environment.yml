@@ -7,5 +7,6 @@ dependencies:
   - pandas
   - scikit-learn
   - pip
+  - shapely
   - pip:
-       - cjio>=0.6.10
+    - cjio>=0.6.10
